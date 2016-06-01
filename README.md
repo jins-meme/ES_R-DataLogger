@@ -1,1 +1,1 @@
-# academic_win_official
+JINS MEME ACADEMIC DataLogger Application for Windows
