@@ -1,5 +1,5 @@
 JINS MEME ACADEMIC DataLogger Application for Windows
-[Download page](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)
+[[Download page](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)]
 
 Precaution for use
 *Supported OS: Windows 8.1, windows 10
