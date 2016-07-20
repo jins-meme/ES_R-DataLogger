@@ -3,11 +3,9 @@ JINS MEME ACADEMIC DataLogger Application for Windows
 
 Precaution for use
 
-*Supported OS: Windows 8.1, windows 10
-
-*USB dongle bundled with JINS MEME ACADEMIC PACK is needed to run the software.
-
-*License Key which is provided after the purchase is needed to install the software.
+*Supported OS: Windows 8.1, windows 10<br>
+*USB dongle bundled with JINS MEME ACADEMIC PACK is needed to run the software.<br>
+*License Key which is provided after the purchase is needed to install the software.<br>
 
 Trouble-shooting
 
