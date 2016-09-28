@@ -33,4 +33,4 @@ Windows用のデータロガー（データ参照ツール）のインストー�
 * ソフトウェアのインストールには、購入時に発行されるライセンスキーが必要です
 
 ### トラブルシューティング
-* ドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs.をインストールしてください。
+* ドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)をインストールしてください。
