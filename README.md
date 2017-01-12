@@ -14,7 +14,8 @@ Trouble-shooting<br>
 
 
 Trial 
-*[Download page for Trial Verstion](https://github.com/jins-meme/ap-Trial-datalogger-for-windows)
+*Before purchasing, you can try a part of JINS MEME DataLogger for Academic Pack
+[Download page for Trial Verstion](https://github.com/jins-meme/ap-Trial-datalogger-for-windows)
 
 ## Japanese
 
