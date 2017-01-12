@@ -13,6 +13,9 @@ Trouble-shooting<br>
 *If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs.
 
 
+Trial 
+*[Download page for Trial Verstion](https://github.com/jins-meme/ap-Trial-datalogger-for-windows)
+
 ## Japanese
 
 Windows用のデータロガー（データ参照ツール）のインストーラーです。
