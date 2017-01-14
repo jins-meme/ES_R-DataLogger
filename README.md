@@ -4,18 +4,21 @@
 
 [Download page](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)
 
-Precaution for use<br>
-*Supported OS: Windows 8.1, windows 10<br>
-*USB dongle bundled with JINS MEME ACADEMIC PACK is needed to run the software.<br>
-*License Key which is provided after the purchase is needed to install the software.<br>
+### Precaution for use<br>
+1. Supported OS: Windows 8.1, windows 10<br>
+2. USB dongle bundled with JINS MEME ACADEMIC PACK is needed to run the software.<br>
+3. License Key which is provided after the purchase is needed to install the software.<br>
 
-Trouble-shooting<br>
-*If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs.
+### Trouble-shooting<br>
+* If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs.
 
-
-Trial  
-*Before purchasing, you can try a part of JINS MEME DataLogger for Academic Pack  
+### Trial for DataLogger  
+* Before purchasing, you can try a part of JINS MEME DataLogger for Academic Pack  
 [Download page for Trial Verstion](https://github.com/jins-meme/ap-Trial-datalogger-for-windows)
+
+### Instuction manual 
+* Please go and see the [instruction manual](https://jins-meme.github.io/apdoc/en/) for how to start recording.
+
 
 ## Japanese
 
