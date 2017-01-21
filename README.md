@@ -1,4 +1,4 @@
-# JINS MEME ACADEMIC DataLogger Application for Windows
+## JINS MEME ACADEMIC DataLogger Application for Windows
 
 ## English
 
