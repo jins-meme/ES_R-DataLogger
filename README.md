@@ -14,7 +14,7 @@
 
 ### Trial for DataLogger  
 * Before purchasing, you can try a part of JINS MEME DataLogger for Academic Pack  
-[Download page for Trial Verstion](https://github.com/jins-meme/ap-Trial-datalogger-for-windows)
+[Download page for Trial Verstion](https://github.com/jins-meme/ap-Trial-datalogger-for-windows).
 
 ### Instuction manual 
 * Please go and see the [instruction manual](https://jins-meme.github.io/apdoc/en/) for how to start recording.
