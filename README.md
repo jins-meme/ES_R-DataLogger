@@ -1,4 +1,4 @@
-## JINS MEME ACADEMIC DataLogger Application for Windows
+## JINS MEME ES_R (Academic Pack) DataLogger for Windows
 
 ## English
 
