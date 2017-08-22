@@ -7,7 +7,7 @@
 ### Precaution for use<br>
 1. Supported OS: Windows 8.1, windows 10<br>
 2. USB dongle bundled with JINS MEME ES_R is needed to run the software.<br>
-3. License Key which is provided after the purchase is needed to install the software.<br>
+3. **License Key which is provided after the purchase** is needed to install the software.<br>
 
 ### Trouble-shooting<br>
 * If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs.
