@@ -4,10 +4,12 @@
 
 [Download page](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)
 
-### Precaution for use<br>
-1. Supported OS: Windows 8.1(64bit), windows 10(64bit)<br>
-2. USB dongle bundled with JINS MEME ES_R is needed to run the software.<br>
-3. **License Key which is provided after the purchase** is needed to install the software.<br>
+### Precaution(requirement) for use<br>
+* Supported OS: Windows 8.1(64bit), windows 10(64bit)<br>
+* CPU: Intel Core i5 2.3GHz or more
+* Memory: 2GB (4GB recommended)
+* USB dongle bundled with JINS MEME ES_R is needed to run the software.<br>
+* **License Key which is provided after the purchase** is needed to install the software.<br>
 
 ### Trouble-shooting<br>
 * If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs.
