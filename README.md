@@ -5,7 +5,7 @@
 [Download page](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)
 
 ### Precaution for use<br>
-1. Supported OS: Windows 8.1, windows 10<br>
+1. Supported OS: Windows 8.1(64bit), windows 10(64bit)<br>
 2. USB dongle bundled with JINS MEME ES_R is needed to run the software.<br>
 3. **License Key which is provided after the purchase** is needed to install the software.<br>
 
@@ -35,9 +35,11 @@ Windows用のデータロガー（データ参照ツール）のインストー�
 6. JINS MEMEの電源ボタンを2秒以上押して電源を入れてください。 「Scan device」ボタンを押すとセレクトボックスに選択肢が表示されますので、ご希望のJINS MEMEと接続してください。
 
 ### 対象環境
-* サポートするOS: Windows 8.1, windows 10
-* ソフトウェアのご使用には、JINS MEME ES_R専用ドングル（別売り）が必要です
-* ソフトウェアのインストールには、DataLogger購入時に発行されるシリアルキーが必要です
+* OS：Windows 8.1(64bit), windows 10(64bit)
+* プロセッサ：Intel Core i5 2.3GHz以上
+* メモリ：2GB以上（4GB推奨）
+* 専用アプリケーション(DataLogger）のご使用には、JINS MEME ES_R専用ドングル（別売り）が必要です
+* 専用アプリケーション(DataLogger）インストールには、DataLogger購入時に発行されるシリアルキーが必要です
 
 ### トラブルシューティング
 * ドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)をインストールしてください。
