@@ -37,7 +37,7 @@ Windows用のデータロガー（データ参照ツール）のインストー�
 ### 対象環境
 * サポートするOS: Windows 8.1, windows 10
 * ソフトウェアのご使用には、JINS MEME ES_R専用ドングル（別売り）が必要です
-* ソフトウェアのインストールには、DataLogger購入時に発行されるシリアルキーがが必要です
+* ソフトウェアのインストールには、DataLogger購入時に発行されるシリアルキーが必要です
 
 ### トラブルシューティング
 * ドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)をインストールしてください。
