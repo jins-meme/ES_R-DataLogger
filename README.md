@@ -12,7 +12,7 @@
 * **License Key which is provided after the purchase** is needed to install the software.<br>
 
 ### Trouble-shooting<br>
-* If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs.
+* If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs. Please be sure that you need to download and install " Windows 7/8/8.1/10(v6.7.5) ". 
 　　　<img src="https://github.com/jins-meme/ES_R-DataLogger-for-Windows/wiki/images/driver.png" width="900">
 
 ### Trial for DataLogger  
