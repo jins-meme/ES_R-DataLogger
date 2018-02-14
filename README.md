@@ -45,4 +45,5 @@ Windows用のデータロガー（データ参照ツール）のインストー�
 * 専用アプリケーション(DataLogger）インストールには、DataLogger購入時に発行されるシリアルキーが必要です
 
 ### トラブルシューティング
-* ドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)をインストールしてください。
+* ドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)をインストールしてください。ドライバのバージョンは「Windows 7/8/8.1/10(v6.7.5)」になりますのでご注意ください。
+  　　　<img src="https://github.com/jins-meme/ES_R-DataLogger-for-Windows/wiki/images/driver.png" width="900">
