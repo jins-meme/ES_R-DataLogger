@@ -12,7 +12,7 @@
 * **License Key which is provided after the purchase** is needed to install the software.<br>
 
 ### Trouble-shooting<br>
-* If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs. Please be sure that you need to download and install " Windows 7/8/8.1/10(v6.7.5) ". 
+* If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs. Please be sure that you need to download and install " Windows 7/8/8.1/10(v6.7.5) ". If you have already installed another Silicon Labs driver such as "Windows 10 Universal (v10.1.1)", please unintall it first.
 　　　<img src="https://github.com/jins-meme/ES_R-DataLogger-for-Windows/wiki/images/driver.png" width="900">
 
 ### Trial for DataLogger  
@@ -45,5 +45,5 @@ Windows用のデータロガー（データ参照ツール）のインストー�
 * 専用アプリケーション(DataLogger）インストールには、DataLogger購入時に発行されるシリアルキーが必要です
 
 ### トラブルシューティング
-* ドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)をインストールしてください。ドライバのバージョンは「Windows 7/8/8.1/10(v6.7.5)」になりますのでご注意ください。
+* ドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)をインストールしてください。ドライバのバージョンは「Windows 7/8/8.1/10(v6.7.5)」になりますのでご注意ください。既に他のSilicon Labs制ドライバ（Windows 10 Universal (v10.1.1)など）をインスト-ルしている際は、先にアンインストール頂く必要があります。
   　　　<img src="https://github.com/jins-meme/ES_R-DataLogger-for-Windows/wiki/images/driver.png" width="900">
