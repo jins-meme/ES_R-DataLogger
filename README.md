@@ -13,8 +13,7 @@
 
 ### Trouble-shooting<br>
 * If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs.
-![test](https://github.com/jins-meme/ES_R-DataLogger-for-Windows/wiki/images/driver.png)
-
+<img src="https://github.com/jins-meme/ES_R-DataLogger-for-Windows/wiki/images/driver.png" width="320">
 
 ### Trial for DataLogger  
 * Before purchasing, you can try a part of JINS MEME DataLogger for JINS MEME ES_R  
