@@ -30,7 +30,7 @@ Windows用のDataLogger（Rawデータの描画および記録）のインスト
 
 [ダウンロード](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)
 
-### 使いかた
+### ご利用手順と注意事項
 1. [JINS MEME ES_R](https://jins-meme.com/academic)をご用意ください。
 2. [データロガー（データ参照ツール）をダウンロード](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)し、インストールしてください。
 3. インストールされたアプリケーションを起動してください。
