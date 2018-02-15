@@ -1,7 +1,7 @@
 ## JINS MEME ES_R (Academic Pack) DataLogger for Windows
 
 ## English
-
+DataLogger application for Windows.
 [Download page](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)
 
 ### Precaution(requirement) for use<br>
@@ -25,7 +25,7 @@
 
 ## Japanese
 
-Windows用のデータロガー（データ参照ツール）のインストーラーです。
+Windows用のDataLogger（Rawデータの描画および記録）のインストーラーです。
 
 [ダウンロード](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)
 
