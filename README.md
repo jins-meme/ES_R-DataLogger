@@ -4,8 +4,8 @@
 
 Installer for DataLogger application for Windows.
 
-[Download page](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)
-[How to use](https://jins-meme.github.io/apdoc/en/)
+- [Download page](https://github.com/jins-meme/academic-pack-datalogger-for-windows/releases)
+- [How to use](https://jins-meme.github.io/apdoc/en/)
 
 ### Precaution(requirement) for use<br>
 
@@ -19,14 +19,6 @@ Installer for DataLogger application for Windows.
 
 - If your computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver]( https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx) provided by Silicon labs. Please be sure that you need to download and install " Windows 7/8/8.1/10(v6.7.5 or v6.7.6) ". If you have already installed another Silicon Labs driver such as "Windows 10 Universal (v10.1.1)", please unintall it first.
 　　　<img src="https://github.com/jins-meme/ES_R-DataLogger-for-Windows/wiki/images/driver.png" width="900">
-
-### Trial for DataLogger  
-* Before purchasing, you can try a part of JINS MEME DataLogger for JINS MEME ES_R  
-[Download page for Trial Version](https://github.com/jins-meme/ap-Trial-datalogger-for-windows)
-
-### Instuction manual 
-* Please go and see the [instruction manual](https://jins-meme.github.io/apdoc/en/) for how to start recording.
-
 
 ## Japanese
 
