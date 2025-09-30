@@ -24,7 +24,7 @@ Installer for DataLogger application for Windows / Mac / Android.
 
 ### Trouble-shooting
 
-- If your Windows computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) provided by Silicon labs. Please be sure that you need to download and install **CP210x Universal Windows Driver** .
+- If your Windows computer doesn't recognize the dongle, try the [CP210x USB - UART bridge VCP driver](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers) provided by Silicon labs. Please be sure that you need to download and install **CP210x Universal Windows Driver** .
 
 ## Japanese
 
@@ -50,4 +50,4 @@ Windows / Mac / Android用のDataLogger（Rawデータの描画および記録�
   
 ### トラブルシューティング
 
-- Windows PC でドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）](https://jp.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)をインストールしてください。ドライバのバージョンは **CP210x Universal Windows Driver** になりますのでご注意ください。
+- Windows PC でドングルを検出できない場合は、ドライバの追加が必要です。 [Silicon labsが提供しているドライバ（CP210x USB - UART bridge VCP driver）](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers)をインストールしてください。ドライバのバージョンは **CP210x Universal Windows Driver** になりますのでご注意ください。
